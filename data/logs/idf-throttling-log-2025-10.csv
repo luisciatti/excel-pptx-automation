@@ -1,0 +1,7 @@
+"SQL_ID","OBJETO","QTD","FUNCAO"
+"bpgmwpbpp2fkq","OBTER_SE_PAC_HOSPITAL","3","Protocolo Convênio"
+"8rt09k12h1tmg","VALIDAR_DADOS_PF","3","Entrada Única de Pacientes"
+"av3qgs0j4bb1z","","2","Entrada Única de Pacientes"
+"f0v57th430qqy","OBTER_MATERIAL_REVAL_LOTE","2","Requisição de Materiais e Medicamentos"
+"f0v57th430qqy","OBTER_MATERIAL_REVAL_LOTE","2","Devolução Material Paciente"
+"f0v57th430qqy","OBTER_MATERIAL_REVAL_LOTE","2","Atendimento do Lote da Prescrição"
